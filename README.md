@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Kr manglam university
 - 💞️ I’m looking to collaborate on learning python
-- 📫 How to reach me my instagram :- dxd_ash
+- 📫 How to reach me instagram :- dxd_ash
 
 <!---
 luciiferash/luciiferash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
